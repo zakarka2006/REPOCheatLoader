@@ -8,7 +8,7 @@ Fully automated loader for [r.e.p.o-cheat](https://github.com/D4rkks/r.e.p.o-che
    - Start your REPO game as you normally would.
 
 2. **Launch the Loader for Cheat:**
-   - Run the `REPOCheatLoaderMerged.exe` (the loader executable).
+   - Run the `REPOCheatLoader.exe` (the loader executable).
    - The loader will automatically download the latest cheat DLL from GitHub.
    - It will then inject the cheat into the running game process.
    - Once injection is complete, a confirmation message will appear in the console.
