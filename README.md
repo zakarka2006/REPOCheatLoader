@@ -2,7 +2,7 @@
 
 Fully automated loader for [r.e.p.o-cheat](https://github.com/D4rkks/r.e.p.o-cheat)
 
-## How to Launch REPOCheatLoader
+## How to use REPOCheatLoader
 
 ### EN:
 
