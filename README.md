@@ -8,7 +8,7 @@ Supports stable and beta versions of cheat. **Works on license and cracked versi
 ### How to use REPOCheatLoader
 
 1. **Start REPO Game:** Launch the REPO game first.
-2. **Run Loader:** Open `REPOCheatLoader.exe`.
+2. **Run Loader:** Place the loader in a separate directory and run `REPOCheatLoader.exe`.
    - The loader automatically downloads and injects the latest cheat.
 3. **Wait for Confirmation:** After successful injection, a confirmation message appears.
 4. **Close Loader:** Press any key to exit.
@@ -22,10 +22,10 @@ Supports stable and beta versions of cheat. **Works on license and cracked versi
 Устали инжектить ручками? Попробуйте полность автоматический лоадер для [r.e.p.o-cheat](https://github.com/D4rkks/r.e.p.o-cheat).  
 Поддерживает stable и beta версии чита. **Работает как на лицухе, так и на пиратке**
 
-### Как использовать REPOCheatLoader?
+### Как использовать REPOCheatLoader
 
 1. **Запустите игру REPO:** Сначала запустите REPO.
-2. **Запустите лоадер:** Откройте файл `REPOCheatLoader.exe`.
+2. **Запустите лоадер:** Расположите лоадер в отдельной директории и запустите `REPOCheatLoader.exe`.
    - Лоадер автоматически скачает и заинжектит последнюю версию чита.
 3. **Дождитесь подтверждения:** После успешного инжекта появится сообщение.
 4. **Закройте лоадер:** Нажмите любую клавишу для выхода.
