@@ -1,10 +1,11 @@
-# REPOCheatLoader
+# REPOCheatLoader [EN/RU]
 
-Fully automated loader for [r.e.p.o-cheat](https://github.com/D4rkks/r.e.p.o-cheat)
+## English Readme:
 
-## How to use REPOCheatLoader
+Tired of manual injecting? Here is fully automated loader for [r.e.p.o-cheat](https://github.com/D4rkks/r.e.p.o-cheat).  
+Supports stable and beta versions of cheat. **Works on license and cracked versions of the game.**
 
-### EN:
+### How to use REPOCheatLoader
 
 1. **Start REPO Game:** Launch the REPO game first.
 2. **Run Loader:** Open `REPOCheatLoader.exe`.
@@ -16,7 +17,12 @@ Fully automated loader for [r.e.p.o-cheat](https://github.com/D4rkks/r.e.p.o-che
 
 ---
 
-### RU:
+## Русское Readme:
+
+Устали инжектить ручками? Попробуйте полность автоматический лоадер для [r.e.p.o-cheat](https://github.com/D4rkks/r.e.p.o-cheat).  
+Поддерживает stable и beta версии чита. **Работает как на лицухе, так и на пиратке**
+
+### Как использовать REPOCheatLoader?
 
 1. **Запустите игру REPO:** Сначала запустите REPO.
 2. **Запустите лоадер:** Откройте файл `REPOCheatLoader.exe`.
@@ -24,7 +30,7 @@ Fully automated loader for [r.e.p.o-cheat](https://github.com/D4rkks/r.e.p.o-che
 3. **Дождитесь подтверждения:** После успешного инжекта появится сообщение.
 4. **Закройте лоадер:** Нажмите любую клавишу для выхода.
 
-**Важно:** При ошибках запускайте от имени администратора. Если антивирус блокирует лоадер, добавьте его в исключения.
+**Важно:** При ошибках запускайте от имени администратора. Если антивирус блокирует лоадер, добавьте его в исключения антивируса.
 
 ## For contributors
 
