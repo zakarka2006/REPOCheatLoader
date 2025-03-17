@@ -25,3 +25,8 @@ Fully automated loader for [r.e.p.o-cheat](https://github.com/D4rkks/r.e.p.o-che
 4. **Закройте лоадер:** Нажмите любую клавишу для выхода.
 
 **Важно:** При ошибках запускайте от имени администратора. Если антивирус блокирует лоадер, добавьте его в исключения.
+
+## For contributors
+
+You need to add SharpMonoInjector.dll to project references.   
+Go to Solution Explorer -> REPOCheatLoader, right click References -> Add references -> Browse tab -> Click on browse and select .dll
