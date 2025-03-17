@@ -1,5 +1,7 @@
 # REPOCheatLoader [EN/RU]
 
+**Download latest version: [REPOCheatLoader.exe](https://github.com/zakarka2006/REPOCheatLoader/releases/latest/download/REPOCheatLoader.exe)** 
+
 ## English Readme:
 
 Tired of manual injecting? Here is fully automated loader for [r.e.p.o-cheat](https://github.com/D4rkks/r.e.p.o-cheat).  
